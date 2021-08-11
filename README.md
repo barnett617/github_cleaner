@@ -74,3 +74,8 @@ node app.js
 │   45    │     'weixin-pat-service'      │    'wilson-family/weixin-pat-service'    │   0   │ '2021-07-30T10:16:10Z' │ '2021-07-30T10:25:13Z' │
 └─────────┴───────────────────────────────┴──────────────────────────────────────────┴───────┴────────────────────────┴────────────────────────┘
 ```
+
+## Reference
+
+- [Github API](https://docs.github.com/en/rest/reference/repos#list-repositories-for-the-authenticated-user)
+- [Extendable client for GitHub's REST & GraphQL APIs](https://github.com/octokit/core.js#readme)
